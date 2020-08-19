@@ -1,8 +1,8 @@
 # draggable picture puzzel Game
 
-<img src="/screenshot/puzzel1.gif" Height="400" >
+<img src="/screenshots/puzzel1.gif" Height="400" >
 
-<img src="/screenshot/Screenshot_2020-08-19-17-04-14-57_c1c1102daceace17e8fe3a4f054192c9.jpg" Height="200">
+<img src="/screenshots/Screenshot_2020-08-19-17-04-14-57_c1c1102daceace17e8fe3a4f054192c9.jpg" Height="200">
 
 
 
