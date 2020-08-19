@@ -9,7 +9,7 @@
 
 
 
-A new Flutter project.
+This is a basic kid game concept using draggable widget
 
 ## Getting Started
 
